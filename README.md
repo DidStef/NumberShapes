@@ -1,9 +1,9 @@
 # Number Shapes
 
-![Home Page](image/image1.png)
-![Home Page](image/image2.png)
-![Home Page](image/image3.png)
-![Home Page](image/image4.png)
+![Home Page](images/image1.png)
+![Home Page](images/image2.png)
+![Home Page](images/image3.png)
+![Home Page](images/image4.png)
 
 ## Getting Started
 
